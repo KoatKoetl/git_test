@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+p  {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-style: italic;
+    font-weight: bold;
+    font-family: fantasy;
+}
+
+div {
+    background-color: bisque;
+    height: fit-content;
+    width: fit-content;
+}
