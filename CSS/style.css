@@ -1,21 +1,32 @@
-body {
-    background-color: rgb(255, 255, 255);
-    color: black;
+.Name_of_page{
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
-p  {
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 15px 5px;
+    border: 5px black solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
-h1{
-    font-style: italic;
-    font-weight: bold;
-    font-family: fantasy;
+.HTML_explaining{
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
-div {
-    background-color: bisque;
-    height: fit-content;
-    width: fit-content;
+.CodeHTML{
+    border: 5px black solid;
+    margin-left: 10px;
+    
 }
